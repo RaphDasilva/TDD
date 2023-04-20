@@ -17,5 +17,9 @@ describe Solver do
       it 'should raise an exception when number is negative' do
         expect { @solver.factorial(-2) }.to raise_error(StandardError, 'Number cannot be negative')
       end
+
+      it 'should reverse words' do
+        expect(@solver.reverse('hello')).to eq 'olleh'
+      end
     end
   end
