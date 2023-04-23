@@ -191,6 +191,7 @@ If you like this project...
 
 
 I would like to thank Microverse for this experience
+and my partner too.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
