@@ -10,6 +10,11 @@ class Solver
     end
     result
   end
+  
+  def string_to_array(str1, str2)
+  array = [str1, str2]
+  return array
+end
 
   def reverse(word)
     word.reverse!
